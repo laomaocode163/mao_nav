@@ -50,6 +50,13 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1754055406828",
+          "name": "豆包",
+          "url": "https://www.doubao.com",
+          "description": "字节跳动旗下AI智能助手",
+          "icon": "/sitelogo/www.doubao.com.ico"
+        },
+        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "念铭导航",
-  "_fileSha": "fa76b0cb6370a570d69ded0400e18cf51d5b1886"
+  "title": "猫猫导航"
 }
