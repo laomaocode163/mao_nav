@@ -50,11 +50,59 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1754056875722",
+          "name": "通义千问",
+          "url": "https://www.tongyi.com/",
+          "description": "阿里巴巴旗下AI智能助手"
+        },
+        {
+          "id": "site-1754057015418",
+          "name": "腾讯元宝",
+          "url": "https://yuanbao.tencent.com/",
+          "description": "腾讯旗下AI智能助手",
+          "icon": "/sitelogo/yuanbao.tencent.com.ico"
+        },
+        {
           "id": "site-1754055406828",
           "name": "豆包",
           "url": "https://www.doubao.com",
           "description": "字节跳动旗下AI智能助手",
           "icon": "/sitelogo/www.doubao.com.ico"
+        },
+        {
+          "id": "site-1754057073950",
+          "name": "Kimi",
+          "url": "https://www.kimi.com/",
+          "description": "强大的AI智能助手",
+          "icon": "/sitelogo/www.kimi.com.ico"
+        },
+        {
+          "id": "site-1754056179741",
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com/",
+          "description": "百度旗下AI智能助手",
+          "icon": "/sitelogo/yiyan.baidu.com.ico"
+        },
+        {
+          "id": "site-1754057126183",
+          "name": "深度求索",
+          "url": "https://www.deepseek.com/",
+          "description": "探索未至之境",
+          "icon": "/sitelogo/www.deepseek.com.ico"
+        },
+        {
+          "id": "site-1754056959522",
+          "name": "讯飞星火",
+          "url": "https://xinghuo.xfyun.cn/desk",
+          "description": "讯飞旗下AI智能助手",
+          "icon": "/sitelogo/xinghuo.xfyun.cn.ico"
+        },
+        {
+          "id": "site-1754055957842",
+          "name": "小艺",
+          "url": "https://xiaoyi.huawei.com/chat/",
+          "description": "华为旗下AI智能助手",
+          "icon": "/sitelogo/xiaoyi.huawei.com.ico"
         },
         {
           "id": "chatgpt",
@@ -90,6 +138,69 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1754057208448",
+          "name": "Kiro",
+          "url": "https://kiro.dev/",
+          "description": "亚马逊旗下智能IDE",
+          "icon": "/sitelogo/kiro.dev.ico"
+        },
+        {
+          "id": "site-1754057252414",
+          "name": "TRAE",
+          "url": "https://www.trae.cn/",
+          "description": "字节跳动旗下智能IDE",
+          "icon": "/sitelogo/www.trae.cn.ico"
+        },
+        {
+          "id": "site-1754057333347",
+          "name": "通义灵码",
+          "url": "https://lingma.aliyun.com/lingma",
+          "description": "阿里巴巴旗下智能IDE",
+          "icon": "/sitelogo/lingma.aliyun.com.ico"
+        },
+        {
+          "id": "site-1754057386896",
+          "name": "CodeBuddy",
+          "url": "https://copilot.tencent.com/",
+          "description": "CodeBuddy，AI 时代的智能编程伙伴",
+          "icon": "/sitelogo/copilot.tencent.com.ico"
+        },
+        {
+          "id": "site-1754057424812",
+          "name": "CodeGeex",
+          "url": "https://codegeex.cn/",
+          "description": "CodeGeeX 智能编程助手",
+          "icon": "/sitelogo/codegeex.cn.ico"
+        },
+        {
+          "id": "site-1754057462878",
+          "name": "Fitten Code",
+          "url": "https://code.fittentech.com/",
+          "description": "AI编程加速器",
+          "icon": "/sitelogo/code.fittentech.com.ico"
+        },
+        {
+          "id": "site-1754057524226",
+          "name": "iFlyCode",
+          "url": "https://iflycode.xfyun.cn/index",
+          "description": "星火飞码，更懂你的智能助手",
+          "icon": "/sitelogo/iflycode.xfyun.cn.ico"
+        },
+        {
+          "id": "site-1754057559576",
+          "name": "Amazon Q",
+          "url": "https://aws.amazon.com/cn/q/developer/",
+          "description": "适用于软件开发的最强大的生成式人工智能助手",
+          "icon": "/sitelogo/aws.amazon.com.ico"
+        },
+        {
+          "id": "site-1754057590276",
+          "name": "Tabnine",
+          "url": "https://www.tabnine.com/",
+          "description": "Any agent can write code.Ours earn your devs' trust",
+          "icon": "/sitelogo/www.tabnine.com.ico"
         }
       ]
     },
