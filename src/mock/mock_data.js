@@ -14,6 +14,13 @@ export const mockData = {
           "icon": "/sitelogo/www.bilibili.com.ico"
         },
         {
+          "id": "yuque",
+          "name": "语雀",
+          "url": "https://www.yuque.com",
+          "description": "文档知识管理",
+          "icon": "/sitelogo/yuque.png"
+        },
+        {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
@@ -185,6 +192,13 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
+          "id": "github-zh",
+          "name": "Github中文社区",
+          "url": "https://www.github-zh.com/",
+          "description": "GitHub优质开源项目的中文社区平台",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
           "id": "52pojie",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
@@ -204,6 +218,13 @@ export const mockData = {
           "url": "https://ruanyazyk.com/",
           "description": "收集那些有用的东西，你的资源百科全书",
           "icon": "/sitelogo/ruanyazyk.com-favicon.ico"
+        },
+        {
+          "id": "site-1752649007056",
+          "name": "自托管服务和工具目录",
+          "url": "https://selfhost-hub.com/",
+          "description": "发掘、探索并部署各种高质量的自托管服务和工具",
+          "icon": "/sitelogo/elfhost-hub.svg"
         }
       ]
     },
@@ -325,6 +346,27 @@ export const mockData = {
           "url": "https://www.runoob.com",
           "description": "编程技术教程",
           "icon": "/sitelogo/www.runoob.com.ico"
+        },
+        {
+          "id": "lianglianglee",
+          "name": "技术摘抄",
+          "url": "https://learn.lianglianglee.com/",
+          "description": "极客时间技术教程",
+          "icon": "/sitelogo/learn.lianglianglee.com-favicon.ico"
+        },
+        {
+          "id": "jetbrains-getting-started",
+          "name": "IDEA 中文文档",
+          "url": "https://www.jetbrains.com/zh-cn/help/idea/getting-started.html",
+          "description": "Jetbrains IDEA 帮助文档",
+          "icon": "/sitelogo/www.jetbrains.com-favicon.ico"
+        },
+        {
+          "id": "spring-getting-started",
+          "name": "Spring 中文文档",
+          "url": "https://www.spring-doc.cn/",
+          "description": "本站点文档内容均由Spring官网翻译而来",
+          "icon": "/sitelogo/spring.io-favicon.ico"
         }
       ]
     },
