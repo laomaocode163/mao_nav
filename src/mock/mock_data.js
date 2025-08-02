@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "panlegepan",
+          "name": "盘了个盘",
+          "url": "https://www.panlegepan.com/",
+          "description": "聚合云盘高效搜索",
+          "icon": "/sitelogo/www.panlegepan.com-favicon.ico"
         }
       ]
     },
@@ -28,6 +35,13 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
+        {
+          "id": "tongyi-qwen",
+          "name": "通义千问",
+          "url": "https://www.tongyi.com/",
+          "description": "阿里巴巴旗下AI智能助手",
+          "icon": "/sitelogo/www.tongyi.com-favicon.ico"
+        },
         {
           "id": "site-1754055406828",
           "name": "豆包",
@@ -50,41 +64,6 @@ export const mockData = {
           "icon": "/sitelogo/www.kimi.com.ico"
         },
         {
-          "id": "site-1754057333347",
-          "name": "通义灵码",
-          "url": "https://lingma.aliyun.com/lingma",
-          "description": "阿里巴巴旗下智能IDE",
-          "icon": "/sitelogo/lingma.aliyun.com.ico"
-        },
-        {
-          "id": "site-1754057252414",
-          "name": "TRAE",
-          "url": "https://www.trae.cn/",
-          "description": "字节跳动旗下智能IDE",
-          "icon": "/sitelogo/www.trae.cn.ico"
-        },
-        {
-          "id": "site-1754057386896",
-          "name": "CodeBuddy",
-          "url": "https://copilot.tencent.com/",
-          "description": "CodeBuddy，AI 时代的智能编程伙伴",
-          "icon": "/sitelogo/copilot.tencent.com.ico"
-        },
-        {
-          "id": "site-1754057424812",
-          "name": "CodeGeex",
-          "url": "https://codegeex.cn/",
-          "description": "CodeGeeX 智能编程助手",
-          "icon": "/sitelogo/codegeex.cn.ico"
-        },
-        {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
@@ -104,20 +83,6 @@ export const mockData = {
           "url": "https://www.midjourney.com",
           "description": "AI图像生成工具",
           "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
-        },
-        {
-          "id": "site-1754057208448",
-          "name": "Kiro",
-          "url": "https://kiro.dev/",
-          "description": "亚马逊旗下智能IDE",
-          "icon": "/sitelogo/kiro.dev.ico"
         }
       ]
     },
@@ -168,6 +133,20 @@ export const mockData = {
           "url": "https://www.huaweicloud.com",
           "description": "华为云计算服务",
           "icon": "/sitelogo/www.huaweicloud.com.ico"
+        },
+        {
+          "id": "site-volcengine",
+          "name": "火山引擎",
+          "url": "https://www.volcengine.com/",
+          "description": "字节跳动云计算",
+          "icon": "/sitelogo/volcengine.png"
+        },
+        {
+          "id": "site-qingcloud",
+          "name": "青云",
+          "url": "https://www.qingcloud.com/",
+          "description": "第一家混合云上市公司",
+          "icon": "/sitelogo/www.qingcloud.com-favicon.ico"
         },
         {
           "id": "site-1752644060499",
@@ -268,6 +247,55 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "site-1754057333347",
+          "name": "通义灵码",
+          "url": "https://lingma.aliyun.com/lingma",
+          "description": "阿里巴巴旗下智能IDE",
+          "icon": "/sitelogo/lingma.aliyun.com.ico"
+        },
+        {
+          "id": "site-1754057252414",
+          "name": "TRAE",
+          "url": "https://www.trae.cn/",
+          "description": "字节跳动旗下智能IDE",
+          "icon": "/sitelogo/www.trae.cn.ico"
+        },
+        {
+          "id": "site-1754057386896",
+          "name": "CodeBuddy",
+          "url": "https://copilot.tencent.com/",
+          "description": "CodeBuddy，AI 时代的智能编程伙伴",
+          "icon": "/sitelogo/copilot.tencent.com.ico"
+        },
+        {
+          "id": "site-1754057208448",
+          "name": "Kiro",
+          "url": "https://kiro.dev/",
+          "description": "亚马逊旗下智能IDE",
+          "icon": "/sitelogo/kiro.dev.ico"
+        },
+        {
+          "id": "site-1754057424812",
+          "name": "CodeGeex",
+          "url": "https://codegeex.cn/",
+          "description": "CodeGeeX 智能编程助手",
+          "icon": "/sitelogo/codegeex.cn.ico"
+        },
+        {
+          "id": "copilot",
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "AI代码助手",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "cursor",
+          "name": "Cursor",
+          "url": "https://cursor.sh",
+          "description": "AI代码编辑器",
+          "icon": "/sitelogo/cursor.sh.ico"
         }
       ]
     },
@@ -310,8 +338,15 @@ export const mockData = {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
-          "description": "工具大全",
+          "description": "在线工具大全",
           "icon": "/sitelogo/www.bejson.com.ico"
+        },
+        {
+          "id": "site-1752649007054",
+          "name": "菜鸟工具",
+          "url": "https://www.jyshare.com/",
+          "description": "菜鸟工具-不止于工具",
+          "icon": "/sitelogo/www.jyshare.com-favicon.ico"
         },
         {
           "id": "curlconverter",
@@ -319,6 +354,69 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "favicon.im",
+          "name": "Favicon.im",
+          "url": "https://favicon.im/zh",
+          "description": "即时获取和下载任何网站的图标",
+          "icon": "/sitelogo/favicon.im-favicon.ico"
+        },
+        {
+          "id": "draw.io",
+          "name": "draw.io",
+          "url": "https://favicon.im/zh",
+          "description": "在线画图工具",
+          "icon": "/sitelogo/www.drawio.com-favicon.ico"
+        },
+        {
+          "id": "excalidraw",
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "description": "在线画图工具",
+          "icon": "/sitelogo/excalidraw.com-favicon.ico"
+        },
+        {
+          "id": "processon",
+          "name": "ProcessOn",
+          "url": "https://www.processon.com/",
+          "description": "在线画图工具",
+          "icon": "/sitelogo/www.processon.com-favicon.ico"
+        },
+        {
+          "id": "pdf24",
+          "name": "PDF24",
+          "url": "https://tools.pdf24.org/zh/",
+          "description": "免费且易于使用的在线PDF工具",
+          "icon": "/sitelogo/tools.pdf24.org-favicon.ico"
+        },
+        {
+          "id": "lddgo",
+          "name": "在线工具大全",
+          "url": "https://www.lddgo.net/index",
+          "description": "在线工具大全",
+          "icon": "/sitelogo/www.lddgo.net-favicon.ico"
+        },
+        {
+          "id": "uutool",
+          "name": "UU在线大全",
+          "url": "https://uutool.cn/type/new/",
+          "description": "在线工具大全",
+          "icon": "/sitelogo/uutool.cn-favicon.ico"
+        },
+        {
+          "id": "cccyun",
+          "name": "彩虹工具网",
+          "url": "https://tool.cccyun.cc/",
+          "description": "在线工具大全",
+          "icon": "/sitelogo/tool.cccyun.cc-favicon.ico"
+        },
+        {
+          "id": "browser.qq",
+          "name": "帮小忙",
+          "url": "https://tool.browser.qq.com/",
+          "description": "QQ浏览器在线工具平台",
+          "icon": "/sitelogo/tool.browser.qq.com-favicon.ico"
         }
       ]
     },
@@ -496,7 +594,13 @@ export const mockData = {
           "url": "https://www.mrbaogao.com/",
           "description": "全能工作空间",
           "icon": "/sitelogo/www.mrbaogao.com-favicon.ico"
-        },
+        },{
+          "id": "ypppt",
+          "name": "优品PPT",
+          "url": "https://www.ypppt.com/",
+          "description": "PPT模板免费下载",
+          "icon": "/sitelogo/www.ypppt.com-favicon.ico"
+        }
       ]
     }
   ],
