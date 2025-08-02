@@ -14,13 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/www.bilibili.com.ico"
         },
         {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
@@ -178,7 +171,7 @@ export const mockData = {
         },
         {
           "id": "site-1752644060499",
-          "name": "怕死云",
+          "name": "帕斯云",
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
@@ -192,11 +185,18 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
+          "id": "oschina",
+          "name": "开源中国",
+          "url": "https://www.oschina.net/",
+          "description": "中文开源技术交流社区",
+          "icon": "/sitelogo/www.oschina.net-favicon.ico"
+        },
+        {
+          "id": "woshipm",
+          "name": "人人都是产品经理",
+          "url": "https://www.woshipm.com/",
+          "description": "产品爱好者交流平台" ,
+          "icon": "/sitelogo/www.woshipm.com-favicon.ico"
         },
         {
           "id": "linuxdo",
@@ -206,25 +206,25 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
           "id": "52pojie",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1752649007054",
+          "name": "不死鸟",
+          "url": "https://iui.su/",
+          "description": "不死鸟分享为王官网",
+          "icon": "/sitelogo/iui.su-favicon.ico"
+        },
+        {
+          "id": "site-1752649007055",
+          "name": "软鸭资源库",
+          "url": "https://ruanyazyk.com/",
+          "description": "收集那些有用的东西，你的资源百科全书",
+          "icon": "/sitelogo/ruanyazyk.com-favicon.ico"
         }
       ]
     },
@@ -297,13 +297,6 @@ export const mockData = {
           "url": "https://www.runoob.com",
           "description": "编程技术教程",
           "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
         }
       ]
     },
@@ -313,27 +306,6 @@ export const mockData = {
       "icon": "⚙️",
       "order": 6,
       "sites": [
-        {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
-        },
         {
           "id": "site-1752649007053",
           "name": "BeJson",
@@ -439,7 +411,63 @@ export const mockData = {
           "url": "https://www.qqmp3.vip/",
           "description": "在线音乐网站",
           "icon": "/sitelogo/www.qqmp3.vip-favicon.ico"
-        }
+        },
+        {
+          "id": "site-1754059392669",
+          "name": "哲风壁纸",
+          "url": "https://haowallpaper.com/",
+          "description": "免费4K高清壁纸",
+          "icon": "/sitelogo/haowallpaper.com-favicon.ico"
+        },
+        {
+          "id": "site-1754059392670",
+          "name": "拾光壁纸",
+          "url": "https://qingbz.timeline.ink/",
+          "description": "干净、舒适、流畅的壁纸网站",
+          "icon": "/sitelogo/qingbz.timeline.ink-favicon.ico"
+        },
+        {
+          "id": "site-1754059392671",
+          "name": "吉伊卡哇",
+          "url": "https://chiikawawallpaper.com/zh-cn",
+          "description": "手机壁纸&电脑壁纸",
+          "icon": "/sitelogo/chiikawawallpaper.com-favicon.ico"
+        },
+        {
+          "id": "site-1754059392672",
+          "name": "SaltyLeo 的书架",
+          "url": "https://tstrs.me/",
+          "description": "欢迎你来到 SaltyLeo 的书架!",
+          "icon": "/sitelogo/tstrs.me-favicon.ico"
+        },
+        {
+          "id": "site-1754059392672",
+          "name": "24h搜书",
+          "url": "https://24hbook.daohangxie.com/",
+          "description": "AI驱动的24小时搜书平台",
+          "icon": "/sitelogo/24hbook.daohangxie.com-favicon.ico"
+        },
+        {
+          "id": "site-1754059392673",
+          "name": "爱阅读网",
+          "url": "https://www.iyd.wang/",
+          "description": "在线书籍搜索",
+          "icon": "/sitelogo/www.iyd.wang-favicon.ico"
+        },
+        {
+          "id": "site-1754059392674",
+          "name": "盐神居",
+          "url": "https://saltsgod.com/",
+          "description": "一个互联网的搬运工",
+          "icon": "/sitelogo/saltsgod.com-favicon.ico"
+        },
+        {
+          "id": "site-1754059392675",
+          "name": "摸摸鱼热榜",
+          "url": "https://momoyu.cc/",
+          "description": "新闻聚合网站",
+          "icon": "/sitelogo/momoyu.cc-favicon.ico"
+        },
       ]
     },
     {
@@ -461,7 +489,14 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
-        }
+        },
+        {
+          "id": "mrbaogao",
+          "name": "每日报告大全",
+          "url": "https://www.mrbaogao.com/",
+          "description": "全能工作空间",
+          "icon": "/sitelogo/www.mrbaogao.com-favicon.ico"
+        },
       ]
     }
   ],
